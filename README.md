@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error that can occur when using innerHTML in HTML.  The bug showcases the incorrect concatenation of a string literal and a direct HTML element within the innerHTML assignment. The solution provides the corrected approach.
